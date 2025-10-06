@@ -17,7 +17,7 @@ It uses **TensorFlow**, **OpenCV**, and **MediaPipe** to identify faces and clas
 ## 🗂️ Project Structure
 ```
 Facial-Emotion-Recognition/
-├──dataset
+├── dataset                    # Contains Data required(Grayscale images)
 ├── train_emotion_cnn.py       # Model training script
 ├── realtime_emotion.py        # Real-time emotion detection
 ├── fer_MobileNet2.keras       # Saved trained model
