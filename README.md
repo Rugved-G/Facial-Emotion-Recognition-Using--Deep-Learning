@@ -1,4 +1,4 @@
-# 🎭 Facial Emotion Recognition using CNN + MobileNetV2
+# 🎭 Facial Emotion Recognition using Deep Learning (CNN + MobileNetV2)
 
 This project detects **human emotions in real-time** using a webcam or IP camera feed.  
 It uses **TensorFlow**, **OpenCV**, and **MediaPipe** to identify faces and classify emotions such as *Happy, Sad, Angry, Neutral, Fear, Disgust,* and *Surprise*.
